@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=250&section=header&text=Arya%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <!--
 **AryaRaj487567/AryaRaj487567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
