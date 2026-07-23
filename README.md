@@ -113,21 +113,23 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/arya-raj-433389264)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="[https://github.com/AryaRaj487567](https://github.com/AryaRaj487567)">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/arya-raj-433389264/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
- <a href="mailto:aryaraj487567@gmail.com">
+<a href="https://github.com/AryaRaj487567" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:aryaraj487567@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-  <a href="[https://leetcode.com/YOUR_LEETCODE_USERNAME](https://leetcode.com/u/Arya_2651/)">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
+<a href="https://leetcode.com/u/Arya_2651/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </p>
 
 <!--
