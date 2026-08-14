@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:DD2476&height=250&section=header&text=Arya%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Arya Raj</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving Hand" />, I'm Arya Raj
+</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=4500&pause=1800&color=00E5FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;350%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications" />
