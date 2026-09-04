@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=4500&pause=1800&color=00E5FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;350%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=4500&pause=1800&color=00E5FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;500%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 - 🎓 Integrated M.Sc. Mathematics & Computing, BIT Mesra
 - 💼 Full Stack Web Developer 
 - 💻 Passionate about building scalable web applications using the **MERN Stack**
-- 🧠 Solved 350+ DSA problems
+- 🧠 Solved 500+ DSA problems
 - 🤖 Currently learning **Artificial Intelligence and Machine Learning**, with a focus on building intelligent, data-driven applications
 - 📊 Exploring **Machine Learning algorithms, Data Analysis, and Generative AI** through hands-on projects
 - 🌱 Always learning new technologies and contributing to real-world software projects
